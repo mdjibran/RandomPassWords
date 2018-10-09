@@ -2,7 +2,6 @@ import string
 import random
 import os
 
-
 alphas = list(string.ascii_letters)
 nums = list(range(0,10))
 reDo = True
